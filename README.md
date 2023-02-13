@@ -1,8 +1,8 @@
 
-# WorkSpace: Task Management System
+# WorkSpace: Project Management System
 
 ## General Info
-The Task Management System, “WorkSpace” is a Web application that helps employees and managers belonging to an organization to facilitate and manage 
+The Project Management System, “WorkSpace” is a Web application that helps employees and managers belonging to an organization to facilitate and manage 
 projects, teams, and related tasks in a more organized way. This web application should be easily accessible from any browser on the desktop. 
 This software is a one-stop platform for task organization among teams in an efficient way. An Admin can manage all the projects, employees, and events and can track project progress. 
 Employees can easily access all the information related to the assigned tasks, projects, and events. 
